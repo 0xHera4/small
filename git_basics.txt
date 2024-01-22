@@ -1,0 +1,7 @@
+git clone ==> 
+git remote -v = untuk meremote repo
+git status untuk melihat apakah ada file yang di tambahkan 
+git add untuk mengajukan file
+git commit untuk menambahkan 
+git log melihat history 
+git push untuk mempost di github
