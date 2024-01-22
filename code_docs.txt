@@ -1,0 +1,23 @@
+# membuka kode dengan direktori saat ini
+code .
+
+# membuka direktori saat ini di jendela kode yang paling baru digunakan
+code -r .
+
+# membuat jendela baru
+code -n
+
+# mengganti bahasa
+code --locale=es
+
+# membuka editor perbedaan
+code --diff <file1> <file2>
+
+# membuka file pada baris dan kolom tertentu <file:line[:character]>
+code --goto package.json:10:5
+
+# melihat opsi bantuan
+code --help
+
+# menonaktifkan semua ekstensi
+code --disable-extensions .vscode folder
