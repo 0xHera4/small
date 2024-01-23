@@ -1,3 +1,5 @@
+
+
 # membuka kode dengan direktori saat ini
 code .
 
@@ -21,3 +23,5 @@ code --help
 
 # menonaktifkan semua ekstensi
 code --disable-extensions .vscode folder
+
+git diff untuk melakukan commit perubahan pada file dan menambahkan nya pada saat yang sama dengan menggunakan git commit -a 
